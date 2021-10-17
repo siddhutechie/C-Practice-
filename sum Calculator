@@ -1,0 +1,13 @@
+  int a, b;
+  int sum;
+  cout << "Enter a number \n" ;
+  cin << a;
+  cin >> a;
+  cout << "Enter another number \n";
+  cin << b;
+  cin >> b;
+  sum = a + b;
+  cout << "Sum is: " << sum << endl;
+
+  return 0;
+ }
