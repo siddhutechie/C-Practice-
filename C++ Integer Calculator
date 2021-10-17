@@ -1,0 +1,16 @@
+
+#include <iostream>
+using namespace std;
+
+int main()
+{ 
+  int N;
+  int SUM;
+  cout << "Enter an positive integer";
+  cin >> N
+  SUM = N*(N+1)/2 ;
+  cout << "The sum is:" << SUM << endl;
+
+ return0;
+
+}
